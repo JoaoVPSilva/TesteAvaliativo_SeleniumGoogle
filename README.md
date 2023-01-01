@@ -1,6 +1,6 @@
 # TesteAvaliativo_SeleniumGoogle
 
-Respositório criado para um Desafio Prático, para uma oportunidade de estágio.
+Respositório criado para um Desafio Prático, para uma oportunidade de estágio, para a Concert Technologies S.A.
 
 ## Sobre o projeto 
 
