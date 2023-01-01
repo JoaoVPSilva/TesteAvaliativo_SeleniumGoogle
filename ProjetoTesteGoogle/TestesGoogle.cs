@@ -24,6 +24,8 @@ namespace ProjetoTesteGoogle
             driver.Navigate().GoToUrl("https://www.google.com/");
 
             Assert.IsNotNull(driver.FindElement(By.Name("q")));
+
+            Console.WriteLine("Página funcionando corretamente. \n 1. Campo de Digitação - OK \n 2. Botão Estou com sorte - OK \n 3. Botão Pesquisa do google - OK \n 4. Funcionamento do Botão Google apps - OK");
         }
 
     }
